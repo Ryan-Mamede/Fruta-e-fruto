@@ -1,0 +1,19 @@
+.banner-imagem {
+    height: calc(100vh - 72px);
+    width: 100%;
+}
+
+@media screen and (min-width: 0) {
+    .banner-imagem {
+        height: calc(100vh - 51px);
+    }
+}
+
+@media screen and (min-width: 0) {
+    .banner-imagem {
+    height: calc(100vh - 72px);
+    }
+}
+
+
+
